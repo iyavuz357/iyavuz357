@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @iyavuz357
-- 🌱 I’m currently learning ML
 - 📫 How to reach me iyavuztr80@gmail.com
 
 <!---
